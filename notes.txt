@@ -3,3 +3,4 @@ this is first change i am going to add in the file to track
 this is 3rd line in note.txt 
 feat : this will 3rd commit
 will merge this localy into note.txt to see how it work
+SSH test from EC2
